@@ -15,8 +15,8 @@ Teoria e pratica do conceito de Orientação a Objetos em Kotlin.
 
 ### Simulação de uma estrutura simples de um app de banco DigiOneBank
 - Com usuários:
--- Comum;
--- Funcionario Analista;
--- Funcionario Gerente;
-- Com validação de senha para acesso aos dados;
+  - Comum;
+  - Funcionario Analista;
+  - Funcionario Gerente;
+  - Com validação de senha para acesso aos dados;
 - Aplicando os conceitos de classes, subclasses, interface, abstração, herança e polimorfismo vistas ao longo do curso
